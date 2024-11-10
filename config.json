@@ -6,20 +6,20 @@
         "status": true,
         "icon": ""
     },
-    "notiGroup": false,
+    "notiGroup": true,
     "NOTIFICATION": true,
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "",
-    "AMDIN_NAME": "",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": "",
+    "BOTNAME": "Nhat Em",
+    "AMDIN_NAME": "Nhat Anh",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/profile.php?id=595568537",
+    "PREFIX": ".",
     "ADMINBOT": [
-        ""
+        "595568537"
     ],
     "NDH": [
-        ""
+        "595568537"
     ],
     "DATABASE": {
         "sqlite": {
